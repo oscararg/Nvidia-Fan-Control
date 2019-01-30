@@ -12,8 +12,4 @@ Notes
 - Before installing, enable "Coolbits" at Nvidia-Settings options.
 - Doesn't work with hybrid graphics solutions like Bumblebee or Prime.
 - It needs python-numpy and python-qt4 as dependencies.
-- Tested on Debian and Arch based distros (but must work on all Linux distros).
-
-Screenshots
-
-[github-small](https://github.com/oscararg/Nvidia-Fan-Control/blob/master/nvidia-fan-control-deepin.png)
+- Tested on Debian and Arch based distros (but must work on all Linux distros)
