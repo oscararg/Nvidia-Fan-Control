@@ -13,3 +13,5 @@ Notes
 - Doesn't work with hybrid graphics solutions like Bumblebee or Prime.
 - It needs python-numpy and python-qt4 as dependencies.
 - Tested on Debian and Arch based distros (but must work on all Linux distros)
+
+<img src="nvidia-fan-control-deepin.png" >
