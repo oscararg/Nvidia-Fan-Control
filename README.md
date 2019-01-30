@@ -14,3 +14,6 @@ Notes
 - It needs python-numpy and python-qt4 as dependencies.
 - Tested on Debian and Arch based distros (but must work on all Linux distros).
 
+Screenshots
+
+[github-small](https://github.com/oscararg/Nvidia-Fan-Control/blob/master/nvidia-fan-control-deepin.png)
