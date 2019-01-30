@@ -1,5 +1,4 @@
 # Nvidia-Fan-Control
-Fan control GUI for Nvidia propietary drivers.
 
 Features
 - Made with Python and PyQT4.
