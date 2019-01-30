@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Fan Control
+Version=1.0
+Exec=/tmp/fan/gpufancnv.pyw
+Comment=Fan control GUI for Nvidia propietary drivers
+Icon=fan.svg
+Type=Application
+Terminal=false
+StartupNotify=false
+Encoding=UTF-8
+Categories=Utility;
