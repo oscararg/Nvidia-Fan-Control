@@ -15,3 +15,9 @@ Notes
 - Tested on Debian and Arch based distros (but must work on all Linux distros)
 
 <img src="nvidia-fan-control-deepin.png" >
+
+Collaborators:
+- Jeff Buck (app creator).
+- Car (debian packager).
+
+More info about the app [here (english)](https://bbs.deepin.org/forum.php?mod=viewthread&tid=144008&extra=) or [here (español)](https://deepinenespañol.org/fan-control-para-placas-nvidia/).
