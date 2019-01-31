@@ -1,0 +1,12 @@
+Package: nvidia-fan-control
+Version: 1.0
+Installed-Size: 512
+Maintainer: Car & Oscar Ortiz  <repositorio@deepines.com>
+Section: utils
+Homepage: https://gitlab.com/oscararg/nvidia-fan-control
+Architecture: amd64
+Priority: standard
+Depends: python, python-numpy, python-qt4
+Recommends: nvidia-settings
+Description: Fan control GUI for Nvidia propietary drivers
+ Please enable "Coolbits" "4" option at nvidia-settings before using this.

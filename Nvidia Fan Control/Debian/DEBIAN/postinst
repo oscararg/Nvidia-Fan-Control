@@ -1,0 +1,7 @@
+for i in $(ls /home); do
+
+cp -r /tmp/fan /home/$i/
+
+chown -R $i:$i /home/$i/fan
+
+done
