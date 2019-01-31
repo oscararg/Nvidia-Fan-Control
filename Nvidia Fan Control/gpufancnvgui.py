@@ -310,7 +310,7 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(_translate("MainWindow", "Fan Control for nVidia GPUs", None))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Nvidia Fan Control", None))
         self.fancontrolon.setText(_translate("MainWindow", "On", None))
         self.fancontroloff.setText(_translate("MainWindow", "Off", None))
         self.label_12.setText(_translate("MainWindow", "Fan Control:", None))
@@ -344,7 +344,7 @@ class Ui_MainWindow(object):
         self.lblselgpu.setText(_translate("MainWindow", "Selected GPU", None))
         self.label_5.setText(_translate("MainWindow", "Found", None))
         self.totnvgpus.setText(_translate("MainWindow", "0", None))
-        self.label_17.setText(_translate("MainWindow", "nVidia GPUs", None))
+        self.label_17.setText(_translate("MainWindow", "Nvidia GPUs", None))
         self.label_6.setText(_translate("MainWindow", "Control interval", None))
         self.label_7.setText(_translate("MainWindow", "seconds", None))
 
