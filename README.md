@@ -1,5 +1,7 @@
 # Nvidia-Fan-Control
 
+[Download the app](https://github.com/oscararg/Nvidia-Fan-Control/releases)
+
 Features
 - Made with Python and PyQT4.
 - Nvidia GT, GTX and RTX cards supported.
