@@ -15,9 +15,9 @@ class FCForm(QtGui.QMainWindow):
       self.ui.setupUi(self)
 
       global gpucnt,selectedGPU
-      vernum = "0.5.1"
+      vernum = "1.0"
       os.chdir(os.path.dirname(sys.argv[0]))  # Point to directory where modules and config files reside.
-      self.setWindowTitle("Fan Control for nVidia GPUs (v"+vernum+")")
+      self.setWindowTitle("Nvidia Fan Control (v"+vernum+")")
 
 # Newer NVIDIA drivers use the "GPUTargetFanSpeed" attribute, but older ones used "GPUCurrentFanSpeed".
 # This test should determine which one is active. An error message might be generated if "GPUTargetFanSpeed"

@@ -15,7 +15,7 @@
    <enum>Qt::WheelFocus</enum>
   </property>
   <property name="windowTitle">
-   <string>Fan Control for nVidia GPUs</string>
+   <string>Nvidia Fan Control</string>
   </property>
   <property name="windowIcon">
    <iconset>
@@ -847,7 +847,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>nVidia GPUs</string>
+     <string>Nvidia GPUs</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_6">
